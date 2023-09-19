@@ -1,0 +1,4 @@
+hadoop
+Tomcat
+Nginx
+spark
